@@ -1,5 +1,7 @@
 # Birthday-Gift
 Made a website for my girlfriend's birthday
-Where a present displays on the screen, she clicks boom a cake pops out.
-Then kirby comes and swallows it
+
+Where a present is displayed on the screen, she clicks, boom a cake pops out.
+
+Then Kirby comes and swallows it
 
